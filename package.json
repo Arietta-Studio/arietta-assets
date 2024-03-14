@@ -1,7 +1,7 @@
 {
   "name": "@arietta-studio/assets",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "Logo assets, favicons, webfonts for Arietta Studio",
   "keywords": [
     "logo",
@@ -57,8 +57,8 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^18",
     "@arietta-studio/lint": "latest",
+    "@commitlint/cli": "^18",
     "@types/node": "latest",
     "clean-pkg-json": "^1",
     "cli-real-favicon": "latest",
