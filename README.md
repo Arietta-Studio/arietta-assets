@@ -24,7 +24,6 @@ Logo assets, favicons, webfonts for Arietta Studio
 </div>
 
 <details>
-
 <summary><kbd>Table of contents</kbd></summary>
 
 #### TOC
