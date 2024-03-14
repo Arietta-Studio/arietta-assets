@@ -1,6 +1,6 @@
 {
   "name": "@arietta-studio/emojilib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emoji data from unicode.org",
   "keywords": [
     "unicode-emoji"
