@@ -1,0 +1,27 @@
+{
+  "name": "@arietta-studio/webfont-harmony-sans-sc",
+  "version": "1.0.0",
+  "description": "Web font HarmonyOS Sans SC for Arietta Studio",
+  "keywords": [
+    "webfont"
+  ],
+  "homepage": "https://github.com/arietta-studio/arietta-assets",
+  "bugs": {
+    "url": "https://github.com/arietta-studio/arietta-assets/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arietta-studio/arietta-assets.git"
+  },
+  "license": "MIT",
+  "author": "Arietta Studio <info@arietta-studio.ai>",
+  "sideEffects": false,
+  "files": [
+    "fonts",
+    "css"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
