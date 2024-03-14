@@ -26,48 +26,38 @@ Emoji data from unicode.org"
 #### 📝 License
 
 Copyright © 2024 [Arietta Studio][profile-url]. <br />
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed. <br />
 
 <!-- LINK GROUP -->
 
-[profile-url]: https://github.com/arietta-studio
-[gitpod-url]: https://gitpod.io/#https://github.com/arietta-studio/arietta-assets
-
 <!-- SHIELD LINK GROUP -->
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 
 <!-- release -->
 
-[release-shield]: https://img.shields.io/npm/v/@arietta-studio/emojilib?label=%F0%9F%A4%AF%20NPM
-[release-url]: https://www.npmjs.com/package/@arietta-studio/emojilib
-
 <!-- releaseDate -->
-
-[release-date-shield]: https://img.shields.io/github/release-date/arietta-studio/arietta-assets?style=flat
-[release-date-url]: https://github.com/arietta-studio/arietta-assets/releases
 
 <!-- ciRelease -->
 
-[ci-release-shield]: https://github.com/arietta-studio/arietta-assets/workflows/Release%20CI/badge.svg
-[ci-release-url]: https://github.com/arietta-studio/arietta-assets/actions?query=workflow%3ARelease%20CI
-
 <!-- contributors -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/arietta-studio/arietta-assets.svg?style=flat
-[contributors-url]: https://github.com/arietta-studio/arietta-assets/graphs/contributors
 
 <!-- forks -->
 
-[forks-shield]: https://img.shields.io/github/forks/arietta-studio/arietta-assets.svg?style=flat
-[forks-url]: https://github.com/arietta-studio/arietta-assets/network/members
-
 <!-- stargazers -->
-
-[stargazers-shield]: https://img.shields.io/github/stars/arietta-studio/arietta-assets.svg?style=flat
-[stargazers-url]: https://github.com/arietta-studio/arietta-assets/stargazers
 
 <!-- issues -->
 
+[ci-release-shield]: https://github.com/arietta-studio/arietta-assets/workflows/Release%20CI/badge.svg
+[ci-release-url]: https://github.com/arietta-studio/arietta-assets/actions?query=workflow%3ARelease%20CI
+[contributors-shield]: https://img.shields.io/github/contributors/arietta-studio/arietta-assets.svg?style=flat
+[contributors-url]: https://github.com/arietta-studio/arietta-assets/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/arietta-studio/arietta-assets.svg?style=flat
+[forks-url]: https://github.com/arietta-studio/arietta-assets/network/members
 [issues-shield]: https://img.shields.io/github/issues/arietta-studio/arietta-assets.svg?style=flat
 [issues-url]: https://github.com/arietta-studio/arietta-assets/issues/new/choose
+[profile-url]: https://github.com/arietta-studio
+[release-date-shield]: https://img.shields.io/github/release-date/arietta-studio/arietta-assets?style=flat
+[release-date-url]: https://github.com/arietta-studio/arietta-assets/releases
+[release-shield]: https://img.shields.io/npm/v/@arietta-studio/emojilib?label=%F0%9F%A4%AF%20NPM
+[release-url]: https://www.npmjs.com/package/@arietta-studio/emojilib
+[stargazers-shield]: https://img.shields.io/github/stars/arietta-studio/arietta-assets.svg?style=flat
+[stargazers-url]: https://github.com/arietta-studio/arietta-assets/stargazers
