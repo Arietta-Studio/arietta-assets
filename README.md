@@ -24,6 +24,7 @@ Logo assets, favicons, webfonts for Arietta Studio
 </div>
 
 <details>
+
 <summary><kbd>Table of contents</kbd></summary>
 
 #### TOC
@@ -46,8 +47,8 @@ Logo assets, favicons, webfonts for Arietta Studio
 
 ## 📦 Packages
 
-| NAME                             | NPM                                                                                       | UNPKG                                                |
-| -------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| NAME                                    | NPM                                                                                       | UNPKG                                                |
+| --------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | @arietta-studio/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [ALIYUN-UNPKG][assets-logo-unpkg]                    |
 | @arietta-studio/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [ALIYUN-UNPKG][assets-favicons-unpkg]                |
 | @arietta-studio/assets-emoji            | [![][assets-emoji-release]][assets-emoji-release-url]                                     | [ALIYUN-UNPKG][assets-emoji-unpkg]                   |
@@ -66,9 +67,9 @@ Logo assets, favicons, webfonts for Arietta Studio
 ## 🤯 Logos
 
 | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-3d.webp" width="64" > | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-flat.svg" width="64" > | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-high-contrast.svg" width="64" > | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-text.svg" width="64" > |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [Logo 3D][logo-3d]                                                                                           | [Logo Flat][logo-flat]                                                                                        | [Logo High Contrast][logo-high-contrast]                                                                               | [Logo Text][logo-text]                                                                                        |
-| webp                                                                                                         | svg                                                                                                           | svg                                                                                                                    | svg                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [Logo 3D][logo-3d]                                                                                                  | [Logo Flat][logo-flat]                                                                                               | [Logo High Contrast][logo-high-contrast]                                                                                      | [Logo Text][logo-text]                                                                                               |
+| webp                                                                                                                | svg                                                                                                                  | svg                                                                                                                           | svg                                                                                                                  |
 
 <div align="right">
 
@@ -96,7 +97,7 @@ Insert the following code in the `head` section of your pages:
 <meta name="theme-color" content="#000000" />
 ```
 
-*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
+_Optional_ - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
 
 <div align="right">
 
