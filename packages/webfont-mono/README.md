@@ -26,7 +26,7 @@ Logo assets, favicons, web fonts for Arietta Studio
 #### 📝 License
 
 Copyright © 2024 [Arietta Studio][profile-url]. <br />
-This project is [MIT](./LICENSE) licensed. <br />
+This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
 
