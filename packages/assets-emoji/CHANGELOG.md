@@ -2,6 +2,23 @@
 
 # Changelog
 
+### [Version 1.0.3](https://github.com/arietta-studio/arietta-assets/compare/@arietta-studio/assets-emoji@1.0.2...@arietta-studio/assets-emoji@1.0.3)
+
+<sup>Released on **2024-03-15**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.0.2](https://github.com/arietta-studio/arietta-assets/compare/@arietta-studio/assets-emoji@1.0.1...@arietta-studio/assets-emoji@1.0.2)
 
 <sup>Released on **2024-03-14**</sup>
