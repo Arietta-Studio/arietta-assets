@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" src="https://npm.elemecdn.com/@arietta-studio/assets/logo/logo-3d.webp">
+  <img width="160" src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-3d.webp">
 </p>
 <h1 align="center">@arietta-studio/webfont-harmony-sans-sc</h1>
 

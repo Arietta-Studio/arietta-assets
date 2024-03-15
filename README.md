@@ -1,8 +1,8 @@
 <div align="center"><a name="readme-top"></a>
 
-<img height="120" src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-3d.webp">
-<img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://registry.npmmirror.com/@arietta-studio/assets-emoji/latest/files/assets/package.webp">
+<img height="120" alt="logo" src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-3d.webp">
+<img height="120" alt="" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
+<img height="120" alt="" src="https://unpkg.com/@arietta-studio/assets-emoji@latest/assets/package.webp">
 
 <h1>Arietta Assets</h1>
 
@@ -65,10 +65,10 @@ Logo assets, favicons, webfonts for Arietta Studio
 
 ## 🤯 Logos
 
-| <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-3d.webp" width="64" > | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-flat.svg" width="64" > | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-high-contrast.svg" width="64" > | <img src="https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-text.svg" width="64" > |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Logo 3D][logo-3d]                                                                                                  | [Logo Flat][logo-flat]                                                                                               | [Logo High Contrast][logo-high-contrast]                                                                                      | [Logo Text][logo-text]                                                                                               |
-| webp                                                                                                                | svg                                                                                                                  | svg                                                                                                                           | svg                                                                                                                  |
+| <img src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-3d.webp" width="64" > | <img src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-flat.svg" width="64" > | <img src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-high-contrast.svg" width="64" > | <img src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-text.svg" width="64" > |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Logo 3D][logo-3d]                                                                               | [Logo Flat][logo-flat]                                                                            | [Logo High Contrast][logo-high-contrast]                                                                   | [Logo Text][logo-text]                                                                            |
+| webp                                                                                             | svg                                                                                               | svg                                                                                                        | svg                                                                                               |
 
 <div align="right">
 
@@ -85,11 +85,11 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 Insert the following code in the `head` section of your pages:
 
 ```
-<link rel="apple-touch-icon" sizes="180x180" href="https://registry.npmmirror.com/@arietta-studio/assets-favicons/latest/files/assets/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://registry.npmmirror.com/@arietta-studio/assets-favicons/latest/files/assets/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://registry.npmmirror.com/@arietta-studio/assets-favicons/latest/files/assets/favicon-16x16.png" />
-<link rel="manifest" href="https://registry.npmmirror.com/@arietta-studio/assets-favicons/latest/files/assets/site.webmanifest" />
-<link rel="mask-icon" href="https://registry.npmmirror.com/@arietta-studio/assets-favicons/latest/files/assets/safari-pinned-tab.svg" color="#000000" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://unpkg.com/@arietta-studio/assets-favicons@latest/assets/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://unpkg.com/@arietta-studio/assets-favicons@latest/assets/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://unpkg.com/@arietta-studio/assets-favicons@latest/assets/favicon-16x16.png" />
+<link rel="manifest" href="https://unpkg.com/@arietta-studio/assets-favicons@latest/assets/site.webmanifest" />
+<link rel="mask-icon" href="https://unpkg.com/@arietta-studio/assets-favicons@latest/assets/safari-pinned-tab.svg" color="#000000" />
 <meta name="apple-mobile-web-app-title" content="Arietta Studio" />
 <meta name="application-name" content="Arietta Studio" />
 <meta name="msapplication-TileColor" content="#000000" />
@@ -107,7 +107,7 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 ## 😀Emoji
 
 ```bash
-https://registry.npmmirror.com/@arietta-studio/assets-emoji/latest/files < emoji-name > .webp
+https://unpkg.com/@arietta-studio/assets-emoji@latest/assets < emoji-name > .webp
 ```
 
 | ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
@@ -116,7 +116,7 @@ https://registry.npmmirror.com/@arietta-studio/assets-emoji/latest/files < emoji
 ### Animation Emoji
 
 ```bash
-https://registry.npmmirror.com/@arietta-studio/assets-emoji-anim/latest/files < emoji-name > .webp
+https://unpkg.com/@arietta-studio/assets-emoji-anim@latest/assets < emoji-name > .webp
 ```
 
 | ![][emoji-1-a] | ![][emoji-2-a] | ![][emoji-3-a] |
@@ -130,31 +130,31 @@ https://registry.npmmirror.com/@arietta-studio/assets-emoji-anim/latest/files < 
 
 ## 🔤 Webfonts
 
-[`Hack Nerd Font Mono`](https://registry.npmmirror.com/@arietta-studio/webfont-mono/latest/files/css/index.css)
+[`Hack Nerd Font Mono`](https://unpkg.com/@arietta-studio/webfont-mono@latest/css/index.css)
 
 ```sh
 # lite
-https://registry.npmmirror.com/@arietta-studio/webfont-mono/latest/files/css/index.css
+https://unpkg.com/@arietta-studio/webfont-mono@latest/css/index.css
 # full
-https://registry.npmmirror.com/@arietta-studio/webfont-mono/latest/files/css/index-full.css
+https://unpkg.com/@arietta-studio/webfont-mono@latest/css/index-full.css
 ```
 
-[`HarmonyOS Sans`](https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans/latest/files/webfont-harmony-sans/css/index.css)
+[`HarmonyOS Sans`](https://unpkg.com/@arietta-studio/webfont-harmony-sans@latest/css/index.css)
 
 ```sh
 # lite
-https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans/latest/files/css/index.css
+https://unpkg.com/@arietta-studio/webfont-harmony-sans@latest/css/index.css
 # full
-https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans/latest/files/css/index-full.css
+https://unpkg.com/@arietta-studio/webfont-harmony-sans@latest/css/index-full.css
 ```
 
-[`HarmonyOS Sans SC`](https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans-sc/latest/files/css/index.css)
+[`HarmonyOS Sans SC`](https://unpkg.com/@arietta-studio/webfont-harmony-sans-sc@latest/css/index.css)
 
 ```sh
 # lite
-https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans-sc/latest/files/css/index.css
+https://unpkg.com/@arietta-studio/webfont-harmony-sans-sc@latest/css/index.css
 # full
-https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans-sc/latest/files/css/index-full.css
+https://unpkg.com/@arietta-studio/webfont-harmony-sans-sc@latest/css/index-full.css
 ```
 
 <div align="right">
@@ -221,34 +221,34 @@ This project is [MIT](./LICENSE) licensed.
 
 [assets-emoji-anim-release]: https://img.shields.io/npm/v/@arietta-studio/assets-emoji-anim?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-emoji-anim-release-url]: https://www.npmjs.com/package/@arietta-studio/assets-emoji-anim
-[assets-emoji-anim-unpkg]: https://registry.npmmirror.com/@arietta-studio/assets-emoji-anim
+[assets-emoji-anim-unpkg]: https://unpkg.com/@arietta-studio/assets-emoji-anim/
 [assets-emoji-release]: https://img.shields.io/npm/v/@arietta-studio/assets-emoji?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-emoji-release-url]: https://www.npmjs.com/package/@arietta-studio/assets-emoji
-[assets-emoji-unpkg]: https://registry.npmmirror.com/@arietta-studio/assets-emoji
+[assets-emoji-unpkg]: https://unpkg.com/@arietta-studio/assets-emoji/
 [assets-favicons-release]: https://img.shields.io/npm/v/@arietta-studio/assets-favicons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-favicons-release-url]: https://www.npmjs.com/package/@arietta-studio/assets-favicons
-[assets-favicons-unpkg]: https://registry.npmmirror.com/@arietta-studio/assets-favicons
+[assets-favicons-unpkg]: https://unpkg.com/@arietta-studio/assets-favicons/
 [assets-logo-release]: https://img.shields.io/npm/v/@arietta-studio/assets-logo?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-logo-release-url]: https://www.npmjs.com/package/@arietta-studio/assets-logo
-[assets-logo-unpkg]: https://registry.npmmirror.com/@arietta-studio/assets-logo
+[assets-logo-unpkg]: https://unpkg.com/@arietta-studio/assets-logo/
 [assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@arietta-studio/webfont-harmony-sans?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@arietta-studio/webfont-harmony-sans
 [assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@arietta-studio/webfont-harmony-sans-sc?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@arietta-studio/webfont-harmony-sans-sc
-[assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans-sc
-[assets-webfont-harmony-sans-unpkg]: https://registry.npmmirror.com/@arietta-studio/webfont-harmony-sans
+[assets-webfont-harmony-sans-sc-unpkg]: https://unpkg.com/@arietta-studio/webfont-harmony-sans-sc/
+[assets-webfont-harmony-sans-unpkg]: https://unpkg.com/@arietta-studio/webfont-harmony-sans/
 [assets-webfont-mono-release]: https://img.shields.io/npm/v/@arietta-studio/webfont-mono?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-mono-release-url]: https://www.npmjs.com/package/@arietta-studio/webfont-mono
-[assets-webfont-mono-unpkg]: https://registry.npmmirror.com/@arietta-studio/webfont-mono
+[assets-webfont-mono-unpkg]: https://unpkg.com/@arietta-studio/webfont-mono/
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 [bun-link]: https://bun.sh
 [bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
-[emoji-1]: https://registry.npmmirror.com/@arietta-studio/assets-emoji/latest/files/assets/face-with-diagonal-mouth.webp
-[emoji-1-a]: https://registry.npmmirror.com/@arietta-studio/assets-emoji-anim/latest/files/assets/face-with-diagonal-mouth.webp
-[emoji-2]: https://registry.npmmirror.com/@arietta-studio/assets-emoji/latest/files/assets/face-with-hand-over-mouth.webp
-[emoji-2-a]: https://registry.npmmirror.com/@arietta-studio/assets-emoji-anim/latest/files/assets/face-with-hand-over-mouth.webp
-[emoji-3]: https://registry.npmmirror.com/@arietta-studio/assets-emoji/latest/files/assets/face-with-peeking-eye.webp
-[emoji-3-a]: https://registry.npmmirror.com/@arietta-studio/assets-emoji-anim/latest/files/assets/face-with-peeking-eye.webp
+[emoji-1]: https://unpkg.com/@arietta-studio/assets-emoji@latest/assets/face-with-diagonal-mouth.webp
+[emoji-1-a]: https://unpkg.com/@arietta-studio/assets-emoji-anim@latest/assets/face-with-diagonal-mouth.webp
+[emoji-2]: https://unpkg.com/@arietta-studio/assets-emoji@latest/assets/face-with-hand-over-mouth.webp
+[emoji-2-a]: https://unpkg.com/@arietta-studio/assets-emoji-anim@latest/assets/face-with-hand-over-mouth.webp
+[emoji-3]: https://unpkg.com/@arietta-studio/assets-emoji@latest/assets/face-with-peeking-eye.webp
+[emoji-3-a]: https://unpkg.com/@arietta-studio/assets-emoji-anim@latest/assets/face-with-peeking-eye.webp
 [emojilib-release]: https://img.shields.io/npm/v/@arietta-studio/emojilib?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [emojilib-release-url]: https://www.npmjs.com/package/@arietta-studio/emojilib
 [emojilib-unpkg]: https://raw.githubusercontent.com/arietta-studio/arietta-assets/master/packages/emojilib/index.json
@@ -272,10 +272,10 @@ This project is [MIT](./LICENSE) licensed.
 [github-releasedate-shield]: https://img.shields.io/github/release-date/arietta-studio/arietta-assets?labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/arietta-studio/arietta-assets/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/arietta-studio/arietta-assets?color=ffcb47&labelColor=black&style=flat-square
-[logo-3d]: https://https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files//assets/logo-3d.webp
-[logo-flat]: https://https://registry.npmmirror.com/@arietta-studio/assets-logo/latestfiles//assets/logo-flat.svg
-[logo-high-contrast]: https://https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files//assets/logo-high-contrast.svg
-[logo-text]: https://https://registry.npmmirror.com/@arietta-studio/assets-logo/latest/files/assets/logo-text.svg
+[logo-3d]: https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-3d.webp
+[logo-flat]: https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-flat.svg
+[logo-high-contrast]: https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-high-contrast.svg
+[logo-text]: https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-text.svg
 [pr-welcome-link]: https://github.com/arietta-studio/arietta-assets/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/%F0%9F%A4%AF%20PR%20WELCOME-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/arietta-studio
