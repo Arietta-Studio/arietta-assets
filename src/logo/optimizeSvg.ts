@@ -1,6 +1,6 @@
-const { optimize } = require('svgo');
-const fs = require('node:fs');
-const path = require('node:path');
+import fs from 'node:fs';
+import path from 'node:path';
+import { optimize } from 'svgo';
 
 const config = {
   cleanupAttrs: true,
@@ -42,7 +42,7 @@ const config = {
 const optimizeSvg = (icons) => {
   for (const icon of icons) {
     const iconSvg = fs.readFileSync(path.resolve(__dirname, '../assets', icon));
-    const result = optimize(iconSvg, config);
+    const result = optimize(iconSvg.toString(), config);
     fs.writeFileSync(
       path.resolve(__dirname, '../../packages/assets-logo/assets', icon),
       result.data,
@@ -51,4 +51,4 @@ const optimizeSvg = (icons) => {
   }
 };
 
-module.exports = optimizeSvg;
+export default optimizeSvg;

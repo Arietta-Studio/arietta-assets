@@ -1,6 +1,6 @@
-const sharp = require('sharp');
-const fs = require('node:fs');
-const path = require('node:path');
+import fs from 'node:fs';
+import path from 'node:path';
+import sharp from 'sharp';
 
 const optimizeWebp = (icons, size = 480) => {
   for (const icon of icons) {
@@ -14,4 +14,4 @@ const optimizeWebp = (icons, size = 480) => {
   }
 };
 
-module.exports = optimizeWebp;
+export default optimizeWebp;

@@ -1,5 +1,5 @@
-const optimizeSvg = require('./optimizeSvg');
-const optimizeWebp = require('./optimizeWebp');
+import optimizeSvg from './optimizeSvg';
+import optimizeWebp from './optimizeWebp';
 
 const svgList = ['logo-flat.svg', 'logo-high-contrast.svg', 'logo-text.svg'];
 
