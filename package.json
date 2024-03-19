@@ -68,7 +68,7 @@
     "fontmin": "latest",
     "husky": "^8",
     "lint-staged": "^15",
-    "multi-semantic-release": "^3",
+    "multi-semantic-release": "https://github.com/Gincioks/multi-semantic-release",
     "remark": "^14",
     "remark-cli": "^11",
     "semantic-release": "^21",
