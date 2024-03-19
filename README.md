@@ -6,7 +6,7 @@
 
 <h1>Arietta Assets</h1>
 
-Logo assets, favicons, webfonts for Arietta Studio
+Logo assets, favicons, webfonts, etc. for Arietta Studio
 
 [![][github-release-shield]][github-release-link]
 [![][github-releasedate-shield]][github-releasedate-link]
