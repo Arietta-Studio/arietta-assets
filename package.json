@@ -60,6 +60,7 @@
   "devDependencies": {
     "@arietta-studio/lint": "latest",
     "@commitlint/cli": "^18",
+    "@qiwi/multi-semantic-release": "^7.1.1",
     "@types/node": "latest",
     "cli-real-favicon": "latest",
     "commitlint": "^18",
@@ -68,7 +69,6 @@
     "fontmin": "latest",
     "husky": "^8",
     "lint-staged": "^15",
-    "multi-semantic-release": "https://github.com/Gincioks/multi-semantic-release",
     "remark": "^14",
     "remark-cli": "^11",
     "semantic-release": "^21",
