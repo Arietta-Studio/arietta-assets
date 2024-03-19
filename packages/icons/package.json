@@ -43,6 +43,7 @@
     "prettier": "prettier -c --write --no-error-on-unmatched-pattern \"**/**\"",
     "pull": "git pull",
     "release": "semantic-release",
+    "setup": "dumi setup",
     "start": "npm run dev",
     "sync:md": "tsx ./scripts/genMdList.ts",
     "test": "vitest --passWithNoTests",
